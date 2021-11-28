@@ -39,10 +39,14 @@ footer p {
 .box-shadow { box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05); }
 
 .bg-navbar {
-    background-color:tomato; 
+    background-color:darkseagreen; 
 }
 
 .border-navbar {
-    border-color:tomato;
+    border-color: darkseagreen;
+}
+
+.content-page {
+  margin: 10px 10px 20px 20px;
 }
 
